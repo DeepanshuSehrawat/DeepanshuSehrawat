@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend, React, Deploying full fledged websites**
 
-- 📫 How to reach me **hopesofindia@gmail.com**
+- 📫 How to reach me **deepanshusehrawat008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
